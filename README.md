@@ -2,13 +2,13 @@
 
 Flicks shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
-Time spent: 10 hours spent in total
+Time spent: 20 hours spent in total
 
 ## User Stories
 
 The following functionality is completed:
 
-* [ ] User can **scroll through current movies** from the Movie Database API
+* [checked] User can **scroll through current movies** from the Movie Database API
 
 The following features are implemented:
 
