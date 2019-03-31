@@ -8,7 +8,7 @@ Time spent: 20 hours spent in total
 
 The following functionality is completed:
 
-* [checked] User can **scroll through current movies** from the Movie Database API
+* [ *] User can **scroll through current movies** from the Movie Database API
 
 The following features are implemented:
 
