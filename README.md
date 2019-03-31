@@ -14,7 +14,7 @@ The following features are implemented:
 
 - [X] For each movie displayed, user can see the following details:
 - [X] Title, Poster Image, Overview (Portrait mode)
-  * [ ] Title, Backdrop Image, Overview (Landscape mode)
+* [ ] Title, Backdrop Image, Overview (Landscape mode)
 * [ ] Display a nice default [placeholder graphic](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#advanced-usage) for each image during loading
 * [ ] Allow user to view details of the movie including ratings and popularity within a separate activity
 * [ ] Improved the user interface by experimenting with styling and coloring.
