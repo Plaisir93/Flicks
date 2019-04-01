@@ -15,10 +15,10 @@ The following features are implemented:
 - [X] For each movie displayed, user can see the following details:
 - [X] Title, Poster Image, Overview (Portrait mode)
 * [ ] Title, Backdrop Image, Overview (Landscape mode)
-* [ ] Display a nice default [placeholder graphic](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#advanced-usage) for each image during loading
+- [X] Display a nice default [placeholder graphic](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#advanced-usage) for each image during loading
 * [ ] Allow user to view details of the movie including ratings and popularity within a separate activity
 * [ ] Improved the user interface by experimenting with styling and coloring.
-* [ ] Apply rounded corners for the poster or background images using [Glide transformations](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#transformations)
+- [X] Apply rounded corners for the poster or background images using [Glide transformations](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#transformations)
 * [ ] Apply the popular [Butterknife annotation library](http://guides.codepath.org/android/Reducing-View-Boilerplate-with-Butterknife) to reduce boilerplate code.
 * [ ] Allow video trailers to be played in full-screen using the YouTubePlayerView from the details screen.
 
